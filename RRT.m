@@ -61,6 +61,7 @@
 %   more info to the display method
 %   distance metric choice or weightings
 %   pass time and model options to the simulation
+% comment
 
 classdef RRT < Navigation
 
